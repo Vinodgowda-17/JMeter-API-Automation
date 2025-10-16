@@ -1,0 +1,6 @@
+﻿accountCreation,SavingsAccountCreation,CreateStandingInstruction,updateStandingInstructionType,savingsAccountCreationDate,creditCardAccountCreation,creditCardCreationDate,transaction,day,month,year,amount,amountFee,interestPosting,statementGeneration,autopayReminder,Standinginstruction,AchProcessing,markSuccess,reference,creditProduct,creditCardProductId,clientEnvironment,savingsProductId,InterestPostingJob,StatementGenerationJob,StandinginstructionJob,AutopayReminderJob,clientId,instructionType,dateOfDispute,adjamount
+yes,yes,yes,no,01 April 2023,yes,01 April 2023,,1,4,2023,,,no,no,no,no,no,no,Validating purchase transction.,87,1526,MbanqStage,141,47,45,10,51,20892,4,,
+no,no,no,no,NA,no,NA,purchase,15,4,2023,500,,no,no,no,no,no,no,Validating purchase transction.,87,1526,MbanqStage,141,47,45,10,51,20892,,,
+no,no,no,no,NA,no,NA,cashAdvance,15,4,2023,1000,,no,no,no,no,no,no,Validating purchase transction.,87,1526,MbanqStage,141,47,45,10,51,20892,,,
+no,no,no,no,NA,no,NA,,1,5,2023,,,yes,yes,no,no,no,no,Validating purchase transction.,87,1526,MbanqStage,141,47,45,10,51,20892,,,
+no,no,no,no,NA,no,NA,,19,5,2023,,,no,no,yes,no,no,no,Validating purchase transction.,87,1526,MbanqStage,141,47,45,10,51,20892,,,

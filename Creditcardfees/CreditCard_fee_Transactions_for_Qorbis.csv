@@ -1,0 +1,10 @@
+﻿accountCreation,SavingsAccountCreation,CreateStandingInstruction,updateStandingInstructionType,savingsAccountCreationDate,creditCardAccountCreation,creditCardCreationDate,transaction,day,month,year,amount,amountFee,interestPosting,statementGeneration,autopayReminder,Standinginstruction,AchProcessing,markSuccess,reference,creditProduct,creditCardProductId,clientEnvironment,savingsProductId,InterestPostingJob,StatementGenerationJob,StandinginstructionJob,AutopayReminderJob,clientId,instructionType,dateOfDispute,adjamount
+yes,yes,yes,no,01 April 2025,yes,01 April 2025,,1,4,2025,,,no,no,no,no,no,no,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,4,,
+no,no,no,no,NA,no,NA,purchase,15,4,2025,2000,,no,no,no,no,no,no,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,,,
+no,no,no,no,NA,no,NA,PURCHASE_INTERNATIONAL_FEE,15,4,2025,50,,no,no,no,no,no,no,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,,,
+no,no,no,no,NA,no,NA,,1,5,2025,,,yes,yes,no,no,no,no,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,,,
+no,no,no,no,NA,no,NA,,19,5,2025,,,no,no,yes,no,no,no,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,,,
+no,no,no,no,NA,no,NA,,20,5,2025,,,no,no,no,yes,no,no,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,,,
+no,no,no,no,NA,no,NA,,26,5,2025,,,no,no,yes,no,no,no,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,,,
+no,no,no,no,NA,no,NA,,27,5,2025,,,no,no,no,no,yes,yes,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,,,
+no,no,no,no,NA,no,NA,,1,6,2025,,,yes,yes,no,no,no,no,Validating purchase transction.,67,287,QorbisStage,187,47,45,10,51,2745,,,
